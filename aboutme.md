@@ -10,11 +10,11 @@ My hobbies include:
   * My favorite sports teams are the Steelers, Cardinals, Blues, and all MU Tigers teams. 
 * Spending time with friends/family
 * Browsing the internet
-  * I like to visit sites like [Youtube](https://www.youtube.com),[Twitch](www.twitch.tv), and [Reddit](www.reddit.com).
+  * I like to visit sites like [Youtube](https://www.youtube.com),[Twitch](https://www.twitch.tv), and [Reddit](https://www.reddit.com).
 
  ## Contact Me 
 Here are ways to contact me:  
 [Email](zachhockey30@gmail.com)  
-[Instagram](www.instagram.com/zach.shipp)
+[Instagram](https://www.instagram.com/zach.shipp)
 
 [Home Page](./README.md)
