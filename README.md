@@ -8,4 +8,4 @@ I have been learning how to code, and have developed this site to help you learn
 - [About me](./aboutme.md)
 - [Experience](./Experience.md)
 - [Code](./code.md)
-- [Academics](./grades)
+- [Academics](./grades.md)
