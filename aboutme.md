@@ -14,7 +14,7 @@ My hobbies include:
 
  ## Contact Me 
 Here are ways to contact me:  
-[Email](zachhockey30@gmail.com)  
+[Email](https://www.mail.google.com/zachhockey30@gmail.com)  
 [Instagram](https://www.instagram.com/zach.shipp)
 
 [Home Page](./README.md)
