@@ -4,16 +4,16 @@ I grew up in **St. Louis**, Missouri, and I am 18 years old. I am a big fan of t
 ## Hobbies
 My hobbies include:
 * Video Games
- * I mainly enjoy, First Person Shooter (FPS) games. My favorite franchise is _Call of Duty_.
+  * I mainly enjoy, First Person Shooter (FPS) games. My favorite franchise is _Call of Duty_.
 * Sports/Exercise
- * From participating to spectating, I find interest in many different sports. My favorite sport to play is football, while my favorite to watch is hockey. 
- * My favorite sports teams are the Steelers, Cardinals, Blues, and all MU Tigers teams. 
+  * From participating to spectating, I find interest in many different sports. My favorite sport to play is football, while my favorite to watch is hockey. 
+  * My favorite sports teams are the Steelers, Cardinals, Blues, and all MU Tigers teams. 
 * Spending time with friends/family
 * Browsing the internet
- * I like to visit sites like [Youtube](www.youtube.com),[Twitch](www.twitch.tv), and [Reddit](www.reddit.com).
+  * I like to visit sites like [Youtube](www.youtube.com),[Twitch](www.twitch.tv), and [Reddit](www.reddit.com).
 
  ## Contact Me 
-Here are ways to contact me:
+Here are ways to contact me:  
 [Email](zachhockey30@gmail.com)  
 [Instagram](www.instagram.com/zach.shipp)
 
